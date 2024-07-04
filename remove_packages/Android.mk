@@ -26,6 +26,7 @@ LOCAL_OVERRIDES_PACKAGES := \
     Tycho \
     VZWAPNLib \
     VzwOmaTrigger \
+    Via \
     WfcActivation
 LOCAL_UNINSTALLABLE_MODULE := true
 LOCAL_CERTIFICATE := PRESIGNED
